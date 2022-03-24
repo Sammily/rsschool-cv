@@ -23,9 +23,9 @@ function sumR(x) {
 - Petrozavodsk State University '13  
 Speciality - Information systems and technologies
 
-- www.coursera.org - HTML, CSS, and Javascript for Web Developers '20
+- https://www.coursera.org/ - HTML, CSS, and Javascript for Web Developers '20
 
-- www.codecademy.com - Web Development '19
+- https://www.codecademy.com/ - Web Development '19
 
 ## Languages:
 Russian - native  
