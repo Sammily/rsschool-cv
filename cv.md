@@ -1,14 +1,16 @@
 ## **Daria Usova**
 
-Discord: Sammily
-GitHub: [Sammily] (https://github.com/Sammily)
+Discord: Sammily  
+GitHub: [Sammily] (https://github.com/Sammily)  
 Telegram: @Sammily
 
-## About Myse1f
+### About Myself:
+I work as a jack-of-all-trades in the IT department. Before that, I worked as a developer (wrote SQL queries) and as a manual QA engineer.
+I am good at solving problems and keeping calm even in difficult situations.
 
-## C0de Example:
 
-_Write function sumR which returns the sum of values in a given list. Try no to cheat and provide recursive solution._
+### C0de Example:
+_Write function sumR which returns the sum of values in a given list._
 
 ```
 function sumR(x) {
@@ -17,16 +19,14 @@ function sumR(x) {
 }
 ```
 
-## Education and Courses:
-
-Petrozavodsk State University '13
+### Education and Courses:
+- Petrozavodsk State University '13  
 Speciality - Information systems and technologies
 
-*www.coursera.org* - HTML, CSS, and Javascript for Web Developers '20
+- *www.coursera.org* - HTML, CSS, and Javascript for Web Developers '20
 
-*www.codecademy.com* - Web Development '19
+- *www.codecademy.com* - Web Development '19
 
 ## Languages:
-
-Russian - native
+Russian - native  
 English - A2
