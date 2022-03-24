@@ -1,7 +1,7 @@
 ## **Daria Usova**
 
 Discord: Sammily  
-GitHub: [Sammily] (https://github.com/Sammily)  
+GitHub: [Sammily](https://github.com/Sammily)  
 Telegram: @Sammily
 
 ### About Myself:
@@ -23,9 +23,9 @@ function sumR(x) {
 - Petrozavodsk State University '13  
 Speciality - Information systems and technologies
 
-- *www.coursera.org* - HTML, CSS, and Javascript for Web Developers '20
+- www.coursera.org - HTML, CSS, and Javascript for Web Developers '20
 
-- *www.codecademy.com* - Web Development '19
+- www.codecademy.com - Web Development '19
 
 ## Languages:
 Russian - native  
